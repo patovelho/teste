@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "299809547177",
+    "firebase_url": "https://whatsapp-e452f.firebaseio.com",
+    "project_id": "whatsapp-e452f",
+    "storage_bucket": "whatsapp-e452f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299809547177:android:703f4c6cdf1e6c31",
+        "android_client_info": {
+          "package_name": "app.marciovazeredo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299809547177-lsn6h2262h647ugrei27oe2kanj0pa5p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "299809547177-lsn6h2262h647ugrei27oe2kanj0pa5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0v1BcuYQR1e-MUQ3CWgJAj3v2f2AjjXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299809547177-lsn6h2262h647ugrei27oe2kanj0pa5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

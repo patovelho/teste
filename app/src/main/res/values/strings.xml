@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Azeredo Imoveis</string>
+    <string name="view">view</string>
+    <string name="login">Login</string>
+    <string name="naopossui">Não possui conta? Cadatre-se aqui</string>
+    <string name="redefinirsenha">Redefinir senha</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="edtNome">Nome</string>
+    <string name="edtSobrenome">Sobrenome</string>
+    <string name="telefone">Telefone</string>
+    <string name="criarconta">Criar conta</string>
+    <string name="confsenha">Confirmar Senha</string>
+    <string name="locacao">Locação</string>
+    <string name="entrar">Entrar</string>
+    <string name="recuperarsenha">Esqueceu a senha?</string>
+    <string name="Logofff">logoff</string>
+    <string name="Logoff">Logoff</string>
+    <string name="TextView">TextView</string>
+    <string name="anual">Anual</string>
+    <string name="temporada">Temporada</string>
+    <string name="venda">Venda</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="back">back</string>
+    <string name="enter_email">Entre com o E-mail</string>
+</resources>
